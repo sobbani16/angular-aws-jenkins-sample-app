@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-aws-app"
+    }
+  },
+  "defaultProject": "my-aws-app",
+  "cli": {
+    "analytics": false
+  }
 }
